@@ -8,7 +8,7 @@ positive_numbers = []
 # Iterate over each number in the list
 for num in list1:
     # Check if the number is positive
-    if num > 0;
+    if num > 0:
         positive_numbers.append(num)
 # Print the positive numbers
 print(positive_numbers)
